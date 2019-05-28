@@ -1,3 +1,4 @@
+// naphattharawat@gmail.com
 const fse = require('fs-extra');
 const { Reader } = require('@dogrocker/thaismartcardreader')
 var XMLHttpRequest = require("xmlhttprequest").XMLHttpRequest;

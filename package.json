@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@dogrocker/thaismartcardreader": "^0.2.3",
+    "@tanjaae/thaismartcardreader": "^0.2.3",
     "fs-extra": "^8.0.1",
     "xmlhttprequest": "^1.8.0"
   }
